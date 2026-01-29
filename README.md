@@ -42,6 +42,7 @@ I specialize in **Infrastructure as Code, Kubernetes, CI/CD automation, GitOps, 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/argo-cd.svg" width="40"/>
 </p>
 
 - **Terraform, Terragrunt, Terramate**
