@@ -1,16 +1,132 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**satyam0710/satyam0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello There 👋  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;4%2B+Years+Experience;AWS+%7C+GCP+%7C+Kubernetes)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I’m a **DevOps Engineer** with **4+ years of hands-on experience** in building, automating, and operating **scalable, secure, and highly available cloud infrastructure** across **AWS and GCP**.
+
+I specialize in **Infrastructure as Code, Kubernetes, CI/CD automation, GitOps, and observability**, with a strong focus on **production reliability, security, and cost optimization**.
+
+- 🔭 Working on **Cloud-native & Kubernetes-based platforms**
+- ⚙️ Automating infrastructure using **Terraform & GitOps**
+- 🚀 Building robust **CI/CD pipelines** for faster and safer releases
+- 📈 Driving reliability through **monitoring, autoscaling & observability**
+- 🤝 Open to collaboration on **DevOps & Platform Engineering projects**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Cloud Platforms**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+</p>
+
+### **Containerization & Orchestration**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40"/>
+</p>
+
+### **Infrastructure as Code & GitOps**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+- **Terraform, Terragrunt, Terramate**
+- **ArgoCD, Argo Rollouts**
+- **External Secrets Operator (ESO)**
+
+---
+
+### **CI/CD & Automation**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+</p>
+
+- GitLab CI/CD  
+- GitHub Actions (Reusable Workflows, WIF)  
+- Jenkins  
+- Bash & Python scripting  
+
+---
+
+### **Monitoring, Security & Observability**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
+</p>
+
+- Datadog, Prometheus, Grafana  
+- Loki, Mimir, Tempo  
+- Trivy, SonarCloud  
+- IAM, RBAC, KMS, Secrets Manager  
+
+---
+
+### **Databases**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+## 🏢 Professional Experience
+
+### **DevOps Engineer — Reventlabs**
+📍 Indore, India | Dec 2021 – Present
+
+- Designed & managed **AWS & GCP cloud infrastructure** using Terraform
+- Built **fully automated CI/CD pipelines**, eliminating 100% manual infra provisioning
+- Managed **EKS & GKE clusters** with Helm and GitOps
+- Implemented **progressive delivery** using Argo Rollouts
+- Automated **cross-account AWS deployments** using IAM role assumption
+- Reduced CI/CD costs using **auto-scaling GitHub runners on GCP**
+- Integrated **Datadog metrics with Kubernetes HPA** for real-time autoscaling
+- Improved security with **Trivy, SonarCloud, Cloudflare WAF**
+- Performed **Aurora database migration** with near-zero downtime
+- Centralized **multi-account AWS architecture (9+ accounts)**
+
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Certified Kubernetes Administrator (CKA)**
+- 🏅 **AWS Certified Solutions Architect – Associate**
+- 🏅 **AWS Certified Cloud Practitioner**
+
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/satyam-nalawade-a92b99126)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:satyamnalawade0710@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Automating today, scaling tomorrow."*
+
+</div>
