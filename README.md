@@ -3,7 +3,8 @@
 # Hello There 👋  
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer;4%2B+Years+Experience;AWS+%7C+GCP(GKE)+%7C+ECS+%7CKubernetes%7C+Terraform%7C+Observability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=0&color=2E9EF7&center=true&vCenter=true&width=900&duration=2000&lines=DevOps+Engineer;4%2B+Years+Experience;AWS+%7C+GCP(GKE)+%7C+ECS+%7CKubernetes%7C+Terraform%7C+Observability)](https://git.io/typing-svg)
+
 
 </div>
 
