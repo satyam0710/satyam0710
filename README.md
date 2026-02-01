@@ -104,8 +104,19 @@ I specialize in **Infrastructure as Code, Kubernetes, CI/CD automation, GitOps, 
 - Integrated **Datadog metrics with Kubernetes HPA** for real-time autoscaling
 - Improved security with **Trivy, SonarCloud, Cloudflare WAF**
 - Performed **Aurora database migration** with near-zero downtime
-- Centralized **multi-account AWS architecture (9+ accounts)**
 
+
+---
+## Personal Projects:
+**🚀 Three-Tier Application Deployment (AWS ECS & EKS)**
+
+- Deployed a three-tier containerized application on AWS ECS (Fargate) and Amazon EKS
+- Used Docker, Kubernetes, ALB, ECR, IAM, and RDS for scalable and secure deployment
+
+GitHub:
+
+- EKS: https://github.com/satyam0710/node-boilerplate-eks
+- ECS: https://github.com/satyam0710/node-boilerplate-ecs
 
 ---
 
