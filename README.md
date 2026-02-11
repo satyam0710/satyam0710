@@ -118,6 +118,13 @@ GitHub:
 - EKS: https://github.com/satyam0710/node-boilerplate-eks
 - ECS: https://github.com/satyam0710/node-boilerplate-ecs
 
+
+**🚀 S3-CloudFront CDN Terraform Module**
+
+- **Description:** A reusable Terraform module for deploying a secure, high-performance CDN setup using AWS S3 as the origin and CloudFront for global content delivery. Features OAC integration, custom error pages, and optimized caching—perfect for static websites and asset hosting. Deployed and battle-tested for production-grade scalability.
+
+- GitHub: https://github.com/satyam0710/terraform-aws-cloudfront/tree/master/terraform
+
 ---
 
 ## 📜 Certifications
